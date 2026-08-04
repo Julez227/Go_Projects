@@ -1,12 +1,14 @@
 // Logical Operators:
-// ! (logical NOT)
+// ! (logical NOT). !true = false !0 = 1 
 // || (LOGICAL OR)  to check multiple conditions a > b || a > c OR means only one condition needs to be true. if the first condition is true we don't need to chekc the second condition
-// &&(LOGICAL AND)
+// &&(LOGICAL AND) a > b && a > c. AND means only one condition needs to be true. if the first condition is true we don't need to chekc the second condition
+
 // bitwase operators:
+// bitwase operators do not really come into play in most usecases.
 // 	& (bitwise AND)
 // 	| (bitwise OR)
 // 	^ (bitwise XOR)
-// 	&^(Bit clear, AND NOT)
+// 	&^(Bitwise, AND NOT)
 // 	<<(left shift)
 // 	>>(right shift)
 
